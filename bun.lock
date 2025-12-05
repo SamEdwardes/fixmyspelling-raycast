@@ -7,6 +7,7 @@
       "dependencies": {
         "@raycast/api": "^1.103.10",
         "@raycast/utils": "^1.17.0",
+        "harper-wasm": "^0.1.1",
         "harper.js": "^1.1.0",
       },
       "devDependencies": {
@@ -279,6 +280,8 @@
     "globals": ["globals@16.5.0", "", {}, ""],
 
     "graphemer": ["graphemer@1.4.0", "", {}, ""],
+
+    "harper-wasm": ["harper-wasm@0.1.1", "", {}, "sha512-SXc79POOTKfJbke3t9afCTWn/r/136FbJg/mX9kcIuFQJH6BCFfYp06lT0hgQSoHIs51de+FZwgENZ+3dc/z3Q=="],
 
     "harper.js": ["harper.js@1.1.0", "", {}, "sha512-obWL85e66md8TqblS56X8G0raGBRxnAsmKYAl4pKExVDUIDBlbWkvyERMecoE6CJkWAMO59AjcZ4r4tUkZhJ1w=="],
 

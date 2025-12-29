@@ -20,11 +20,19 @@
       "subtitle": "Automatically fix the spelling and grammar of the selected text",
       "description": "Automatically fix the spelling and grammar of the selected text using Harper.",
       "mode": "no-view"
+    },
+    {
+      "name": "fixmyspellingcli",
+      "title": "fixmyspelling CLI",
+      "subtitle": "Automatically fix the spelling and grammar of the selected text using the fixmyspelling CLI",
+      "description": "Automatically fix the spelling and grammar of the selected text using Harper.",
+      "mode": "no-view"
     }
   ],
   "dependencies": {
     "@raycast/api": "^1.103.10",
     "@raycast/utils": "^1.17.0",
+    "harper-wasm": "^0.1.1",
     "harper.js": "^1.1.0"
   },
   "devDependencies": {

@@ -1,10 +1,6 @@
 import { getSelectedText, Clipboard, showToast, Toast, showHUD, environment } from "@raycast/api";
 import { showFailureToast } from "@raycast/utils";
 
-import { default as binaryUrl } from 'harper-wasm/harper_wasm_bg.wasm?no-inline';
-
-
-
 
 export default async function main() {
   try {
